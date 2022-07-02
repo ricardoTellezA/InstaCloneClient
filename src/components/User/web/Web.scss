@@ -1,0 +1,10 @@
+@import '../../../scss/index.scss';
+
+
+.web-form{
+    margin: 20px ;
+
+    &.error{
+     border: 1px solid $danger;  
+    }
+}
